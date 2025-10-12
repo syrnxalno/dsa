@@ -21,7 +21,7 @@ public class PalindromeCheck {
         }
         return false;
     }
-    // two pointers (O(1) space complexity)
+    // two pointers 
     public static boolean isPalindrome(String str){
         str = str.toLowerCase();
         char ch[] = str.toCharArray();

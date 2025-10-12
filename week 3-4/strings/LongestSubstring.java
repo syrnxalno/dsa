@@ -33,8 +33,4 @@ public class LongestSubstring {
 
         System.out.println("Longest substring is \"" + longest + "\" with length " + max);
     }
-
-    public static void longestSub(String str){
-        // sliding window technique
-    }
 }
