@@ -1,4 +1,3 @@
-package trees;
 class Node {
     int data;
     Node left;
